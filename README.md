@@ -76,6 +76,3 @@ reports/
 tests/
 ```
 
-## Resume Bullet
-
-Built a LangGraph-style RAG pipeline on Azure that ingests video compliance evidence, generates embeddings, performs vector search, and automates compliance auditing aligned to SOC 2 and GDPR controls, reducing manual review effort by an estimated 50%.
