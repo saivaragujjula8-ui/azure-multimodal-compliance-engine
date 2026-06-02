@@ -1,0 +1,17 @@
+controls:
+  - id: SOC2-CC6.1
+    framework: SOC 2
+    title: Logical access controls
+    requirement: Access to systems and data must be restricted based on least privilege and reviewed periodically.
+  - id: SOC2-CC7.2
+    framework: SOC 2
+    title: Security monitoring
+    requirement: Security events must be monitored, investigated, and escalated.
+  - id: GDPR-ART5
+    framework: GDPR
+    title: Data minimization and purpose limitation
+    requirement: Personal data processing must be limited to specific purposes and only necessary data.
+  - id: GDPR-ART32
+    framework: GDPR
+    title: Security of processing
+    requirement: Personal data must be protected with appropriate technical and organizational measures.

@@ -1,0 +1,5 @@
+00:00 Security training begins with the compliance officer explaining that privileged access is approved through ServiceNow and reviewed every quarter.
+00:30 The team demonstrates evidence collection from Azure AD logs, including MFA status and least privilege exceptions.
+01:05 A data privacy lead confirms that customer personal data is masked before analytics workflows and retained only for approved purposes.
+01:45 Incident monitoring is shown in Microsoft Sentinel with escalation procedures and alert triage notes.
+02:15 The audit owner exports policy acknowledgement records and maps them to SOC 2 and GDPR requirements.
